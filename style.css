@@ -24,6 +24,8 @@ main{
     display: grid;
     grid-template-columns:repeat(1fr);
     /* grid-template-columns: repeat(auto-fill,minmax(10rem,1fr)); */
+    box-shadow: 1px 1px 5px var(--GrayishBlue),1px 5px 5px var(--GrayishBlue);
+    
 
    
 }
